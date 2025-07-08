@@ -189,6 +189,3 @@ While tests aren't included in this implementation, recommended testing strategi
 4. Test keyboard navigation for new features
 5. Update this README for significant changes
 
-## 📄 License
-
-This project is available for use under standard software licensing terms.
